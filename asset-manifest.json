@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ritusaxena67/markdown-previewer.git/static/css/main.126255e1.css",
+    "main.js": "/ritusaxena67/markdown-previewer.git/static/js/main.421e1f0d.js",
+    "static/js/787.e9480b1f.chunk.js": "/ritusaxena67/markdown-previewer.git/static/js/787.e9480b1f.chunk.js",
+    "index.html": "/ritusaxena67/markdown-previewer.git/index.html",
+    "main.126255e1.css.map": "/ritusaxena67/markdown-previewer.git/static/css/main.126255e1.css.map",
+    "main.421e1f0d.js.map": "/ritusaxena67/markdown-previewer.git/static/js/main.421e1f0d.js.map",
+    "787.e9480b1f.chunk.js.map": "/ritusaxena67/markdown-previewer.git/static/js/787.e9480b1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.126255e1.css",
+    "static/js/main.421e1f0d.js"
+  ]
+}
